@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project specific temporary folders
+/content/local_temp_process/
+local_temp_process/
+master_filter.txt
+ffmpeg_filter.txt
+concat_list.txt
+chunk_*.mp3
+chunk_*.wav
+chunk_*.flac
+
+# OS specific files
+.DS_Store
+Thumbs.db
